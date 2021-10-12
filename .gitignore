@@ -1,0 +1,8 @@
+dist
+node_modules
+sa.json
+.DS_Store
+.env
+sa.production.json
+.nyc_output
+coverage
